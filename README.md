@@ -1,7 +1,7 @@
 # Update a File Through a Python Algorithm
 
 ## Project Overview  
-I created this project to automate the management of an allow list for restricted content. The script updates the `allow_list.txt` file by removing IP addresses listed in a separate remove list, ensuring that only authorized addresses remain. This project reflects my skills in cybersecurity automation using Python.  
+I worked on this project to practice managing an allow list for restricted content using Python. Through this, I learned how to automate the process of updating the allow_list.txt file by removing IP addresses found in a separate remove list. This helped me understand file handling, list manipulation, and how automation can improve security management.  
 
 ## Technologies Used  
 - **Python** (for automation)  
